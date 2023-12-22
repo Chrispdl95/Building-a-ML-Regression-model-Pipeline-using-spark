@@ -1,6 +1,8 @@
 # Aeronautics Data Engineering Project
 
-## Overview
+## This project serves as the final assignment for the Coursera course "ML with Spark" offered by IBM.
+
+## Scenario 
 This project, led by our data engineering team at the aeronautics consulting company, focuses on the efficient design of airfoils for planes and sports cars. While our data scientists specialize in machine learning, this project emphasizes my role in ETL tasks and building ML pipelines. We'll be working with a modified version of the NASA Airfoil Self Noise dataset.
 
 ## Objectives
