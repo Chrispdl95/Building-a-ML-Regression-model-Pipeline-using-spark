@@ -21,4 +21,3 @@ This project, led by our data engineering team at the aeronautics consulting com
 1. **Save the Model for Future Production Use:** Store the trained model for future application.
 2. **Load and Verify the Stored Model:** Confirm the reliability of the stored model.
 
-This project showcases our exp
