@@ -5,7 +5,8 @@ You are a data engineer at an aeronautics consulting company. Your company pride
 Objectives
 In this 4 part assignment you will:
 
-Part 1 Perform ETL activity
+Part 1 Perform ETL activity \\
+
    Load a csv dataset
    Remove duplicates if any
    Drop rows with null values if any
