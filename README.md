@@ -28,6 +28,7 @@ Part 2 Create a Machine Learning Pipeline
 Part 3 Evaluate the Model
 
    Evaluate the model using relevant metrics
+   
 Part 4 Persist the Model
 
    Save the model for future production use
